@@ -12,7 +12,7 @@ This research integrates predictive deep learning and Transformer architectures 
 - Pandas & NumPy
 - Matplotlib & Seaborn
 
-##How to Run the Pipeline
+## How to Run the Pipeline
 -Create a free account on Kaggle.
 
 -Go to your Kaggle account settings and click "Create New API Token". This will download a personal kaggle.json file to your computer.
